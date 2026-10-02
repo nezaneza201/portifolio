@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://portifolio-eta-indol-33.vercel.app/sitemap.xml
